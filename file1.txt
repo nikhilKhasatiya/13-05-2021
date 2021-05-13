@@ -2,3 +2,5 @@ this is file1
 
 
 file1[file1 is updated remotely]
+
+file1[file1 is updated localy]
