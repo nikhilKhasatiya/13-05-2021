@@ -11,4 +11,9 @@ dummy repo
 making more cahnges in main after doing changes
 =======
 updated remote readme.md
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/main
+=======
+
+second update on remore readme.md
+>>>>>>> 1549ef71a2086f534cea0b511bcd547b43b8234d
